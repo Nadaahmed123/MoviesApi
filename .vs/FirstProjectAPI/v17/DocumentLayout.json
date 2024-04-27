@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\FirstProjectAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B443E9F-46F1-4879-B245-6252BAA56AE7}|FirstProjectAPI.csproj|e:\\firstprojectapi\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B443E9F-46F1-4879-B245-6252BAA56AE7}|FirstProjectAPI.csproj|solutionrelative:controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B443E9F-46F1-4879-B245-6252BAA56AE7}|FirstProjectAPI.csproj|e:\\firstprojectapi\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B443E9F-46F1-4879-B245-6252BAA56AE7}|FirstProjectAPI.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B443E9F-46F1-4879-B245-6252BAA56AE7}|FirstProjectAPI.csproj|e:\\firstprojectapi\\dto\\moviedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B443E9F-46F1-4879-B245-6252BAA56AE7}|FirstProjectAPI.csproj|solutionrelative:dto\\moviedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B443E9F-46F1-4879-B245-6252BAA56AE7}|FirstProjectAPI.csproj|e:\\firstprojectapi\\dto\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B443E9F-46F1-4879-B245-6252BAA56AE7}|FirstProjectAPI.csproj|solutionrelative:dto\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -140,8 +148,47 @@
         },
         {
           "DockedHeight": 136,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieDetailsDto.cs",
+              "DocumentMoniker": "E:\\FirstProjectAPI\\Dto\\MovieDetailsDto.cs",
+              "RelativeDocumentMoniker": "Dto\\MovieDetailsDto.cs",
+              "ToolTip": "E:\\FirstProjectAPI\\Dto\\MovieDetailsDto.cs",
+              "RelativeToolTip": "Dto\\MovieDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T05:54:42.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieDto.cs",
+              "DocumentMoniker": "E:\\FirstProjectAPI\\Dto\\MovieDto.cs",
+              "RelativeDocumentMoniker": "Dto\\MovieDto.cs",
+              "ToolTip": "E:\\FirstProjectAPI\\Dto\\MovieDto.cs",
+              "RelativeToolTip": "Dto\\MovieDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T05:54:17.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "E:\\FirstProjectAPI\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "E:\\FirstProjectAPI\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAAAJYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T05:06:40.131Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -153,19 +200,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GenresController.cs",
-              "DocumentMoniker": "E:\\FirstProjectAPI\\Controllers\\GenresController.cs",
-              "RelativeDocumentMoniker": "Controllers\\GenresController.cs",
-              "ToolTip": "E:\\FirstProjectAPI\\Controllers\\GenresController.cs*",
-              "RelativeToolTip": "Controllers\\GenresController.cs*",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAADcAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T17:24:04.754Z",
-              "EditorCaption": ""
             }
           ]
         }
